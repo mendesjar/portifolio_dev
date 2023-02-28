@@ -2,7 +2,6 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import Logo from "../../assets/logoMarca.svg";
-import ArrowLeft from "../../../public/arrowLeft.svg";
 
 export function TopBar() {
   return (

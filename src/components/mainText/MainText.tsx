@@ -2,7 +2,7 @@ import React from "react";
 
 export function MainText() {
   return (
-    <div className="flex items-center justify-center h-[39rem] my-11 text-[#023059]">
+    <div className="flex items-center justify-center h-[35rem] my-11 text-[#023059]">
       <div className="text-center">
         <h1 className="text-6xl md:text-8xl lg:text-9xl font-extrabold lg:leading-[6rem] mb-3">
           Hi there
